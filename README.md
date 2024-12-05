@@ -3,7 +3,7 @@
 
 ![image](https://github.com/user-attachments/assets/b690438a-275d-4158-ace0-01c0255702bf)
 #### DB파일 (https://github.com/jyoons00/Spring_Project_DB.git)<br>
-#### 포트폴리오 PPT ()<br>
+#### 포트폴리오 PPT (https://www.canva.com/design/DAGYL5o_6Ag/q9Z5UME6aaQY6mTpLscjAw/view?utm_content=DAGYL5o_6Ag&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9e66c9c44b)<br>
 
 ## 팀 프로젝트: 네일 전문 쇼핑몰 오호라 스프링 프레임워크로 컨버팅
 
@@ -12,7 +12,7 @@
 팀원 : 이시훈, 박준용, 송세호, 전재윤<br>
 
 #### 프로젝트 과제
-프로젝트 주제 '네일 전문 쇼핑몰 오호라의 실물 웹사이트 Converting to Spring Framework 5.0’<br>
+프로젝트 주제 '네일 전문 쇼핑몰 오호라의 실물 웹사이트 Converting By Spring Framework 5.0’<br>
 
 #### 주요 포커스
 1. MVC 패턴의 흐름 파악
